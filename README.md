@@ -3,4 +3,7 @@ Code supporting analysis in Mapping microbiota to clinical anxiety (Chin Fatt et
 
 
 # Note
-Random forest analysis performed using wrapping functioons available in SarahAsbury/asbury-datatools repository. 
+Random forest analysis performed using wrapper functions stored in [SarahAsbury/asbury-datatools](https://github.com/SarahAsbury/asbury-datatools) repository. 
+
+A package containing a wrapper function for retain-resolve agglomration method is available for installation from [SarahAsbury/retainresolve](https://github.com/SarahAsbury/retainresolve). 
+
